@@ -1,0 +1,29 @@
+
+* Problématique générale
+Trouver un moyen opérationnel et simple de définir des chantiers de la transition écologique qui soient utilisables pour des nomenclatures métiers.
+
+Les impacts attendus de la transition écologique sur les emplois sont de trois natures [cite:@dierdorff2009_greening_work]:
+- adaptation des compétences / tâches
+- émergence de métiers nouveaux
+- évolution de la demande en emplois
+
+La maille des chantier qui semble la plus pertinente est celle qui permet de saisir ces phénomènes au niveau des métiers [cite:@consoli2016_do].
+
+* Définir des chantiers de la transition écologique
+
+Avantages de partir des leviers du SGPE :
+- France Nation Verte a vocation à couvrir les 5 enjeux environnementaux principaux, qui recoupent assez fidèlement ceux de l'OIT / de France Travail.
+
+--> Confondre à des fins de définition aisée la transition écologique et la planification écologique.
+
+Limites :
+- actions et chantiers pourraient continuer à évoluer
+
+Limites de la classification en 52 leviers actuelle :
+- ce sont des leviers de décarbonation, sujets de ressources ou de nature sont peu présents
+- ils sont peu opérationnalisés pour parler de l'emploi : si "Résidentiel fioul" est parlant pour voir comment on abat 9 Mt d'émissions entre 2019 et 2030, il n'y a pas une évolution positive (à mettre en avant) des compétences / des gestes métiers, de nouveaux métiers ou de la demande de travail sur le marché du travail (cf revue de littérature).
+
+* Méthodologie
+Rentrer dans les chantiers / actions / leviers en précisant progressivement, et s'arrêter (pour chaque chantier) lorsqu'il semble que l'on est capable de saisir les transformations sur les métiers.
+
+1) Pour partir d'une base qui n'est pas uniquement centrée sur les leviers de décarbonation, partir des 22 leviers opérationnels et des 7 leviers transversaux de France Nation Verte.
