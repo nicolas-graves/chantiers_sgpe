@@ -26,4 +26,9 @@ Limites de la classification en 52 leviers actuelle :
 * Méthodologie
 Rentrer dans les chantiers / actions / leviers en précisant progressivement, et s'arrêter (pour chaque chantier) lorsqu'il semble que l'on est capable de saisir les transformations sur les métiers.
 
-1) Pour partir d'une base qui n'est pas uniquement centrée sur les leviers de décarbonation, partir des 22 leviers opérationnels et des 7 leviers transversaux de France Nation Verte.
+1) Pour partir d'une base qui n'est pas uniquement centrée sur les leviers de décarbonation, partir des 22 leviers opérationnels et des 7 leviers transversaux de France Nation Verte (version du 10/22, https://www.gouvernement.fr/dossier-de-presse/france-nation-verte)
+2) Ajouter toutes les actions détaillées dans le plan France Nation Verte (version synthétique de 09/2023, https://www.gouvernement.fr/upload/media/content/0001/07/dc29785bc6c40139f4b49ee2ac75c2a154856323.pdf)
+
+* Problèmes restants à lever
+
+- Pour faire des recommandations de taggage au niveau national, il y a un enjeu à expliciter les choix faits pour certaines données très localisées (typiquement la décarbonation des 50 sites industriels). Première intuition : les 50 sites sont les 50 sites pour des raisons de taille, mais certainement avant tout de process industriels. Peu de raisons que pour les mêmes process industriels, on ait moins d'émissions dans d'autres sites, qui sont peut-être juste moins importants en taille. Quand bien même ils ne seraient pas directement dans les 50 sites en question, le fait qu'un métier contribue à l'évolution des process industriels en question devrait pouvoir suffire pour le qualifier de métier stratégique pour la transition écologique.
