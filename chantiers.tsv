@@ -31,10 +31,29 @@ Mieux se loger	Construction et rénovation des logements	Bâtiment	Résidentiel 
 Mieux se loger	Construction et rénovation des logements	Énergie	Résidentiel biogaz	Résidentiel biogaz	Développer la filière biogaz
 Mieux se loger	Construction et rénovation des logements	Bâtiment	Sobriété résidentiel	Sobriété résidentiel	Favoriser des efforts de sobriété thermique
 Mieux se loger	Aménagements des villes	   -   -		-		-
-Mieux préserver	Forêt
-Mieux préserver	Eau
-Mieux préserver	Sols
-Mieux préserver	Océans et mers
+Mieux préserver	Forêt	     Puits de carbone  Forêts	Préserver durablement la forêt	Gérer et préserver durablement la forêt
+Mieux préserver	Forêt	     Puits de carbone  Forêts	Mieux gérer et renouveler la forêt    Gérer et préserver durablement la forêt
+Mieux préserver	Forêt	     Puits de carbone  Produits bois	Structurer et développer la filière bois    Développer la filière bois
+Mieux préserver	Forêt	     Puits de carbone  Forêts	Gestion forestière adaptée en Outre-mer et Guyane      Gérer et préserver durablement la forêt
+Mieux préserver	Eau	     -	   -  Organiser la sobriété des usages de l'eau	  Gérer et préserver durablement la ressource en eau
+Mieux préserver	Eau	     -	   -  Optimiser la disponibilité de la ressource  Gérer et préserver durablement la ressource en eau
+Mieux préserver	Eau	     -	   -  Préserver la qualité de l'eau Gérer et préserver durablement la ressource en eau
+Mieux préserver	Sols	     Bâtiment	   ZAN  Atteindre le ZAN en 2050	  Limiter l'artificialisation des sols
+Mieux préserver	Sols / Océans et mers	   -	   -  Se doter d'un réseau d'aires protégées cohérent et ambitieux Protéger et favoriser la nature et la biodiversité
+Mieux préserver	Sols	     -	   -  Lutter contre les impacts importés (trafics / déforestation) Protéger et favoriser la nature et la biodiversité (?)
+Mieux préserver	Sols	     -	   -  Réduire l'utilisation des produits phytopharmaceutiques	  Gérer et préserver durablement la qualité des sols
+Mieux préserver	Sols	     -	   -  Lutter contre la pollution lumineuse			  Lutter contre la pollution lumineuse
+Mieux préserver	Sols	     -	   -  Lutter contre la pollution plastique			  Lutter contre la pollution plastique
+Mieux préserver	Sols	     -	   -  Lutter contre les espèces exotiques envahissantes		  Lutter contre les espèces exotiques envahissantes
+Mieux préserver	Sols	     Agriculture	   Prairies  Inciter à un moindre retournement des sols dans les prairies	Gérer et préserver durablement la qualité des sols cultivés
+Mieux préserver	Sols	     -			   -  Accompagner les secteurs prioritaires pour la préservation de la nature  Protéger et favoriser la nature et la biodiversité
+Mieux préserver	Sols	     -	   -  Limiter l'artificialisation en renaturant nos territoires	 Limiter l'artificialisation des sols
+Mieux préserver	Sols	     Agriculture	   Haies et AF  Entretenir et gérer les haies pour les sols cultivés		 Gérer et préserver durablement la qualité des sols cultivés
+Mieux préserver	Sols	     Agriculture	   Pratiques stockantes  Enrichissement des sols pour capter plus de carbone dans les forêts	Gérer et préserver durablement la forêt
+Mieux préserver	Sols	     -	   -	     Produire plus de biomasse	Développer la production et la gestion durable de la biomasse
+Mieux préserver	Sols	     -	   -	     Limiter les importations actuelles de biomasse	Développer la production et la gestion durable de la biomasse
+Mieux préserver	Sols	     -	   -	     Réallouer les ressources en biomasse entre usages Développer la production et la gestion durable de la biomasse
+Mieux préserver	Sols	     -	   -	     Baisser globalement les besoins en bioénergie     Favoriser la sobriété énergétique (?)
 Mieux produire	Nucléaire
 Mieux produire	Transport de marchandises, logistique, e-commerce
 Mieux produire	Verdissement du secteur et des instruments financiers
