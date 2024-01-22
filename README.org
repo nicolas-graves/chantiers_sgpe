@@ -32,3 +32,7 @@ Rentrer dans les chantiers / actions / leviers en précisant progressivement, et
 * Problèmes restants à lever
 
 - Pour faire des recommandations de taggage au niveau national, il y a un enjeu à expliciter les choix faits pour certaines données très localisées (typiquement la décarbonation des 50 sites industriels). Première intuition : les 50 sites sont les 50 sites pour des raisons de taille, mais certainement avant tout de process industriels. Peu de raisons que pour les mêmes process industriels, on ait moins d'émissions dans d'autres sites, qui sont peut-être juste moins importants en taille. Quand bien même ils ne seraient pas directement dans les 50 sites en question, le fait qu'un métier contribue à l'évolution des process industriels en question devrait pouvoir suffire pour le qualifier de métier stratégique pour la transition écologique.
+
+  TODO Est-ce que les 50 sites industriels rentrent tous dans les leviers de décarbonation de l'ensemble de l'industrie (DGE).
+
+- L'intégration de l'économie circulaire est à désirer.
