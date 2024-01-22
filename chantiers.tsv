@@ -54,14 +54,45 @@ Mieux préserver	Sols	     -	   -	     Produire plus de biomasse	Développer la 
 Mieux préserver	Sols	     -	   -	     Limiter les importations actuelles de biomasse	Développer la production et la gestion durable de la biomasse
 Mieux préserver	Sols	     -	   -	     Réallouer les ressources en biomasse entre usages Développer la production et la gestion durable de la biomasse
 Mieux préserver	Sols	     -	   -	     Baisser globalement les besoins en bioénergie     Favoriser la sobriété énergétique (?)
-Mieux produire	Nucléaire
-Mieux produire	Transport de marchandises, logistique, e-commerce
-Mieux produire	Verdissement du secteur et des instruments financiers
-Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)
-Mieux produire	Prévention, gestion et valorisation des déchets
-Mieux produire	Production d'électricité décarbonnée hors nucléaire
-Mieux produire	Production d'énergie décarbonnée (hors électricité)
-Mieux produire	Décarbonation de l'industrie
+Mieux produire	Décarbonation de l'industrie Industrie		 50 sites/CCS    -	-
+Mieux produire	Transport de marchandises, logistique, e-commerce   Industrie	Sobriété (marchandises)	Adopter des comportements de transport sobres	Favoriser la sobriété énergétique (?)
+Mieux produire	Transport de marchandises, logistique, e-commerce   Industrie	Fret ferroviaire et fluvial	Augmenter la part du ferroviaire dans le transport de marchandises    Augmenter la part du ferroviaire dans le transport de marchandises
+Mieux produire	Transport de marchandises, logistique, e-commerce   Industrie	Électrification/H2	Électrifier les poids lourds et les véhicules utilitaires	      Alléger et électrifier les véhicules
+Mieux produire	Transport de marchandises, logistique, e-commerce   Industrie	Conso (efficacité)	Renforcer l'efficacité énergétique des véhicules	Renforcer l'efficacité énergétique des véhicules, navires, aéronefs
+Mieux produire	Transport de marchandises, logistique, e-commerce   Énergie	EE des navires	Renforcer l'efficacité énergétique des navires	Renforcer l'efficacité énergétique des véhicules, navires, aéronefs
+Mieux produire	Transport de marchandises, logistique, e-commerce   Industrie	Bio/e-carburants (marchandises)	Utiliser des carburants durables   Produire et utiliser des carburants durables   
+Mieux produire	Nucléaire/Production d'électricité décarbonnée hors nucléaire	Énergie	Nucléaire/ENR électriques	 Produire suffisamment d'électricité décarbonée	-
+Mieux produire	Production d'énergie décarbonnée (hors électricité) Énergie	Tertiaire biogaz	Mobiliser efficacement et de façon raisonnée les ressources en biomasse pour produire des bioénergies	-
+Mieux produire	-	   Industrie ?		 Sécuriser les objectifs d'économies d'énergie dans les différents secteurs	     -
+Mieux produire	-	   Énergie   Raffinage	 -	   -
+Mieux produire	-	   Énergie   Sobriété tertiaire		 Pérenniser les efforts de sobriété  -
+Mieux produire	Production d'électricité décarbonnée hors nucléaire	Énergie	     ENR électriques	     Doubler le rythme annuel de développement de nouvelles capacités photovoltaïque	-
+Mieux produire	Production d'électricité décarbonnée hors nucléaire	Énergie	     ENR électriques	     Maintenir le rythme de développement de capacités - éolien terrestre		-
+Mieux produire	Production d'électricité décarbonnée hors nucléaire	Énergie	     ENR électriques	     Atteindre l'objectif de 18 GW mis en service en 2035 et développer fortement sur le long terme - éolien maritime	-
+Mieux produire	Nucléaire  Énergie	 Nucléaire	     Poursuivre le fonctionnement des réacteurs existants et renforcer leur disponibilité	  -
+Mieux produire	Nucléaire  Énergie	 Nucléaire	     Poursuivre la mise en oeuvre du programme industriel de construction de 6 nouveaux réacteurs EPR2 et confirmer le lancement de 8 autres	-
+Mieux produire	Nucléaire  Énergie	 Nucléaire	     Encourager le déploiement des petits réacteurs modulaires et de petits réacteurs innovants   -
+Mieux produire	Production d'énergie décarbonnée (hors électricité)	Énergie	   Réseaux de chaleur	     Accélérer la production de chaleur d'origine renouvelable	-
+Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)     Bâtiment	Rénovation tertiaire	Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	-
+Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)     Bâtiment	Tertiaire chaudières fioul	  Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	-
+Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)     Bâtiment	Tertiaire chaudière gaz		  Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	-
+Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)     Énergie	Tertiaire biogaz		  Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	-
+Mieux produire	Prévention, gestion et valorisation des déchets	    Déchets		  Sobriété (déchets)    Réduire la quantité et la nocitivité des déchets		  Réduire la quantité et la nocivité des déchets
+Mieux produire	Prévention, gestion et valorisation des déchets	    Déchets		  Tri des déchets : valorisation matière    Réduire le stockage de déchets	    Réduire le stockage de déchets 
+Mieux produire	Prévention, gestion et valorisation des déchets	    Déchets		  Captage de méthane dans les ISDND    Augmenter fortement le taux de captage du méthane dans les lieux de stockage	-
+Mieux produire	Prévention, gestion et valorisation des déchets	    Déchets		  Tri des déchets : valorisation matière    Soutenir la production d'énergie via les combustibles solides de récupération	- 
+Mieux produire	Prévention, gestion et valorisation des déchets	    Déchets (économie circulaire) -	  Développement du recyclage	     -
+Mieux produire	Prévention, gestion et valorisation des déchets	    Déchets (économie circulaire) -	  Développement de la collecte et du tri	-
+Mieux produire	Prévention, gestion et valorisation des déchets	    - (économie circulaire)	  -	  Approvisionnement durable    -  
+Mieux produire	Prévention, gestion et valorisation des déchets	    - (économie circulaire)	  -	  Soutien à l'écologie industrielle territoriale (synergies territoriales)	-
+Mieux produire	Prévention, gestion et valorisation des déchets	    - (économie circulaire)	  -	  Soutien à l'écoconception	    -
+Mieux produire	Prévention, gestion et valorisation des déchets	    - (économie circulaire)	  -	  Développer l'économie de la fonctionnalité	-
+Mieux produire	Prévention, gestion et valorisation des déchets	    - (économie circulaire)	  -	  Allonger la durée de vie des produits (réparation, reconditionnement et réemploi)	-
+Mieux produire	Prévention, gestion et valorisation des déchets	    -	  -	  Diminuer la quantité de métaux présents dans les batteries	-
+Mieux produire	Prévention, gestion et valorisation des déchets	    -	  -	  Améliorer le taux de collecte et de réincorporation des matières premières		-
+Mieux produire	Prévention, gestion et valorisation des déchets	    -	  -	  Soutenir les projets sous contrôle FR et EU sur toute la chaîne de valeur (extraction, raffinage, recyclage) des matières premières	-
+Mieux produire	-	    -	  -	  Engager une diplomatie des métaux  -
+Mieux produire	Verdissement du secteur et des instruments financiers	     -	-	-	-
 Mieux se nourrir	Alimentation
 Mieux se nourrir	Agriculture et pêche
 Mieux consommer	Consommation plus durable (ménages)
