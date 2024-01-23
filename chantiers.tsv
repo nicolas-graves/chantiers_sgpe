@@ -30,7 +30,7 @@ Mieux se loger	Construction et rénovation des logements	Bâtiment	Résidentiel 
 Mieux se loger	Construction et rénovation des logements	Bâtiment	Résidentiel gaz	Évolution du dispositif MaPrimeRenov (changement de chaudière)	Décarboner l'énergie des logements et accompagner les ménages	-
 Mieux se loger	Construction et rénovation des logements	Énergie	Résidentiel biogaz	Résidentiel biogaz	Développer la filière biogaz	-
 Mieux se loger	Construction et rénovation des logements	Bâtiment	Sobriété résidentiel	Sobriété résidentiel	Favoriser des efforts de sobriété thermique	-
-Mieux se loger	Aménagements des villes	-	-	-	-	-
+Mieux se loger	Aménagements des villes	-	-	-	-	Peu présent directement, mais disséminé dans plusieurs autres actions
 Mieux préserver	Forêt	Puits de carbone	Forêts	Préserver durablement la forêt	Gérer et préserver durablement la forêt	-
 Mieux préserver	Forêt	Puits de carbone	Forêts	Mieux gérer et renouveler la forêt	Gérer et préserver durablement la forêt	-
 Mieux préserver	Forêt	Puits de carbone	Produits bois	Structurer et développer la filière bois	Développer la filière bois	-
@@ -81,17 +81,18 @@ Mieux produire	Prévention, gestion et valorisation des déchets	Déchets	Sobri�
 Mieux produire	Prévention, gestion et valorisation des déchets	Déchets	Tri des déchets : valorisation matière 	Réduire le stockage de déchets	Réduire le stockage de déchets	-
 Mieux produire	Prévention, gestion et valorisation des déchets	Déchets	Captage de méthane dans les ISDND	Augmenter fortement le taux de captage du méthane dans les lieux de stockage	Améliorer le captage du méthane dans les lieux de stockage	-
 Mieux produire	Prévention, gestion et valorisation des déchets	Déchets	Tri des déchets : valorisation matière	Soutenir la production d'énergie via les combustibles solides de récupération	-	-
-Mieux produire	Prévention, gestion et valorisation des déchets	Déchets (économie circulaire)	-	Développement du recyclage	-	-
-Mieux produire	Prévention, gestion et valorisation des déchets	Déchets (économie circulaire)	-	Développement de la collecte et du tri	-	-
-Mieux produire	Prévention, gestion et valorisation des déchets	- (économie circulaire)	-	Approvisionnement durable	-	-
-Mieux produire	Prévention, gestion et valorisation des déchets	- (économie circulaire)	-	Soutien à l'écologie industrielle territoriale (synergies territoriales)	-	-
-Mieux produire	Prévention, gestion et valorisation des déchets	- (économie circulaire)	-	Soutien à l'écoconception	-	-
-Mieux produire	Prévention, gestion et valorisation des déchets	- (économie circulaire)	-	Développer l'économie de la fonctionnalité	-	-
-Mieux produire	Prévention, gestion et valorisation des déchets	- (économie circulaire)	-	Allonger la durée de vie des produits (réparation, reconditionnement et réemploi)	-	-
-Mieux produire	Prévention, gestion et valorisation des déchets	-	-	Diminuer la quantité de métaux présents dans les batteries	-	-
-Mieux produire	Prévention, gestion et valorisation des déchets	-	-	Améliorer le taux de collecte et de réincorporation des matières premières	-	-
-Mieux produire	Prévention, gestion et valorisation des déchets	-	-	Soutenir les projets sous contrôle FR et EU sur toute la chaîne de valeur (extraction, raffinage, recyclage) des matières premières	-	-
-Mieux produire	-	-	-	Engager une diplomatie des métaux	-	-
+Mieux produire	Prévention, gestion et valorisation des déchets	Déchets (économie circulaire)	-	Développement du recyclage (matières premières et recyclabilité)	Développer les matières premières recyclées	-
+Mieux produire	Prévention, gestion et valorisation des déchets	Déchets (économie circulaire)	-	Développement du recyclage (matières premières et recyclabilité)	Développer la recyclabilité des produits	-
+Mieux produire	Prévention, gestion et valorisation des déchets	Déchets (économie circulaire)	-	Développement de la collecte et du tri	Développer la filière de et accompagner la collecte et du tri	-
+Mieux produire	Prévention, gestion et valorisation des déchets	- (économie circulaire)	-	Approvisionnement durable	Développer les capacités de suivi des conditions d'extraction des matières premières	-
+Mieux produire	Prévention, gestion et valorisation des déchets	- (économie circulaire)	-	Soutien à l'écologie industrielle territoriale (synergies territoriales)	Favoriser les synergies territoriales pour l'optimisation de l'usage des ressources	-
+Mieux produire	Prévention, gestion et valorisation des déchets	- (économie circulaire)	-	Soutien à l'écoconception	Réduire les impacts environnementaux des produits sur leur cycle de vie dès leur conception et sur toute leur chaîne de valeur	-
+Mieux produire	Prévention, gestion et valorisation des déchets	- (économie circulaire)	-	Développer l'économie de la fonctionnalité	Développer l'économie de la fonctionnalité	-
+Mieux produire	Prévention, gestion et valorisation des déchets	- (économie circulaire)	-	Allonger la durée de vie des produits (réparation, reconditionnement et réemploi)	Allonger la durée de vie des produits (réparation, reconditionnement et réemploi)	-
+Mieux produire	Prévention, gestion et valorisation des déchets	-	-	Diminuer la quantité de métaux présents dans les batteries	Réduire les impacts environnementaux des produits sur leur cycle de vie dès leur conception	-
+Mieux produire	Prévention, gestion et valorisation des déchets	-	-	Améliorer le taux de collecte et de réincorporation des matières premières	Améliorer le taux de collecte et de réincorporation des matières premières	-
+Mieux produire	Prévention, gestion et valorisation des déchets	-	-	Soutenir les projets sous contrôle FR et EU sur toute la chaîne de valeur (extraction, raffinage, recyclage) des matières premières	Réduire les impacts environnementaux des produits sur leur cycle de vie dès leur conception et sur toute leur chaîne de valeur	-
+Mieux produire	-	-	-	Engager une diplomatie des métaux	-	La sécurité d'approvisionnement, si essentielle, sort un peu du cadre strict de la PE
 Mieux produire	Verdissement du secteur et des instruments financiers	-	-	-	Financer la transition écologique	-
 Mieux se nourrir	Agriculture et pêche	Agriculture	Légumineuses	Accélérer le développement de la culture de légumineuses	-	-
 Mieux se nourrir	Agriculture et pêche	Agriculture	Autres leviers azote	Changer les pratiques de fertilisation azotée	-	-
