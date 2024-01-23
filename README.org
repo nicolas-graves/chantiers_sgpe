@@ -1,35 +1,33 @@
 
-* Problématique générale
-Trouver un moyen opérationnel et simple de définir des chantiers de la transition écologique qui soient utilisables pour des nomenclatures métiers.
+* Définir des chantiers de la transition écologique permettant de qualifier des métiers
 
-Les impacts attendus de la transition écologique sur les emplois sont de trois natures [cite:@dierdorff2009_greening_work]:
+France Nation Verte a vocation à couvrir les enjeux environnementaux principaux, et fournissent un cadre d'analyse ancré dans les politiques publiques, qui se veut cohérent. Dans ce cadre, on peut définir les métiers "stratégiques pour la transition écologique" comme les métiers qui ont une contribution significative à au moins un des chantiers de la planification écologique.
+
+Limites :
+- les actions et chantiers vont continuer à évoluer et à se préciser (notamment pour la famille Mieux consommer)
+- la classification en 52 leviers de décarbonation ne peut convenir :
+  - ce sont des leviers de décarbonation, sujets de ressources ou de nature sont peu présents
+  - ils sont peu opérationnalisés pour parler de l'emploi : si "Résidentiel fioul" est parlant pour voir comment on abat 9 Mt d'émissions entre 2019 et 2030, il n'y a pas une évolution positive (à mettre en avant) des compétences / des gestes métiers, de nouveaux métiers ou de la demande de travail sur le marché du travail (cf revue de littérature).
+
+* Méthodologie
+
+** Maille des chantiers
+
+Dans les travaux sur la base O•NET, les impacts attendus de la transition écologique sur les emplois sont de trois natures [cite:@dierdorff2009_greening_work]:
 - adaptation des compétences / tâches
 - émergence de métiers nouveaux
 - évolution de la demande en emplois
 
-La maille des chantier qui semble la plus pertinente est celle qui permet de saisir ces phénomènes au niveau des métiers [cite:@consoli2016_do].
+La maille des chantier qui semble la plus pertinente est celle qui permet /a minima/ de saisir ces phénomènes au niveau des métiers [cite:@consoli2016_do].
 
-* Définir des chantiers de la transition écologique
+** Définition des chantiers
 
-Avantages de partir des leviers du SGPE :
-- France Nation Verte a vocation à couvrir les 5 enjeux environnementaux principaux, qui recoupent assez fidèlement ceux de l'OIT / de France Travail.
-
---> Confondre à des fins de définition aisée la transition écologique et la planification écologique.
-
-Limites :
-- actions et chantiers pourraient continuer à évoluer
-
-Limites de la classification en 52 leviers actuelle :
-- ce sont des leviers de décarbonation, sujets de ressources ou de nature sont peu présents
-- ils sont peu opérationnalisés pour parler de l'emploi : si "Résidentiel fioul" est parlant pour voir comment on abat 9 Mt d'émissions entre 2019 et 2030, il n'y a pas une évolution positive (à mettre en avant) des compétences / des gestes métiers, de nouveaux métiers ou de la demande de travail sur le marché du travail (cf revue de littérature).
-
-* Méthodologie
 Rentrer dans les chantiers / actions / leviers en précisant progressivement, et s'arrêter (pour chaque chantier) lorsqu'il semble que l'on est capable de saisir les transformations sur les métiers.
 
 1) Pour partir d'une base qui n'est pas uniquement centrée sur les leviers de décarbonation, partir des 22 leviers opérationnels et des 7 leviers transversaux de France Nation Verte (version du 10/22, https://www.gouvernement.fr/dossier-de-presse/france-nation-verte)
-2) Ajouter toutes les actions détaillées dans le plan France Nation Verte (version synthétique de 09/2023, https://www.gouvernement.fr/upload/media/content/0001/07/dc29785bc6c40139f4b49ee2ac75c2a154856323.pdf)
+2) Ajouter toutes les actions détaillées dans le plan France Nation Verte  [cite:@sgpe2023_france_nation_verte]
 
-* Problèmes restants à lever
+** Problèmes restants à lever
 
 - Pour faire des recommandations de taggage au niveau national, il y a un enjeu à expliciter les choix faits pour certaines données très localisées (typiquement la décarbonation des 50 sites industriels). Première intuition : les 50 sites sont les 50 sites pour des raisons de taille, mais certainement avant tout de process industriels. Peu de raisons que pour les mêmes process industriels, on ait moins d'émissions dans d'autres sites, qui sont peut-être juste moins importants en taille. Quand bien même ils ne seraient pas directement dans les 50 sites en question, le fait qu'un métier contribue à l'évolution des process industriels en question devrait pouvoir suffire pour le qualifier de métier stratégique pour la transition écologique.
 
