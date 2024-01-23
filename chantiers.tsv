@@ -18,16 +18,16 @@ Mieux se déplacer	Mobilité longue distance (avion, train)	Transport	Report mod
 Mieux se déplacer	Mobilité longue distance (avion, train)	Transport	Maîtrise de la demande (aérien)	Maîtrise de la demande (aérien)	Favoriser le report modal voyageurs vers les transports en commun (hors avion)	-
 Mieux se déplacer	Mobilité longue distance (avion, train)	Transport	Efficacité énergétique des aéronefs	Efficacité énergétique des aéronefs	Renforcer l'efficacité énergétique des véhicules, navires, aéronefs	-
 Mieux se déplacer	Mobilité longue distance (avion, train)	Energie	Carburants d'Aviation Durables	Carburants d'Aviation Durables	Produire et utiliser des carburants durables	-
-Mieux se loger	Construction et rénovation des logements	Bâtiment	Isolation résidentiel	Évolution du dispositif MaPrimeRenov (changement de chaudière)	-	-
+Mieux se loger	Construction et rénovation des logements	Bâtiment	Isolation résidentiel	Évolution du dispositif MaPrimeRenov (changement de chaudière)	Décarboner l'énergie des logements et accompagner les ménages	-
 Mieux se loger	Construction et rénovation des logements	Bâtiment	Isolation résidentiel	Soutien au développement de la filière pompe à chaleur	Développer la filière pompe à chaleur	-
 Mieux se loger	Construction et rénovation des logements	Bâtiment	Isolation résidentiel	Soutien au raccordement des logements aux réseaux de chaleur	Développer et raccorder aux réseaux de chaleur	-
-Mieux se loger	Construction et rénovation des logements	Bâtiment	Isolation résidentiel	Accompagnement renforcé tout au long du parcours de rénovation	Isoler les logements et accompagner dans l'isolation	-
-Mieux se loger	Construction et rénovation des logements	Bâtiment	Isolation résidentiel	Évolution du dispositif MaPrimeRenov (rénovations performantes)	Isoler les logements et accompagner dans l'isolation	-
-Mieux se loger	Construction et rénovation des logements	Bâtiment	Isolation résidentiel	Mesures pour saisir les moments clés propices à la rénovation	Isoler les logements et accompagner dans l'isolation	-
-Mieux se loger	Construction et rénovation des logements	Bâtiment	Isolation résidentiel	Meilleurs contrôles et mesures de l'impact	Isoler les logements et accompagner dans l'isolation	-
-Mieux se loger	Construction et rénovation des logements	Bâtiment	Résidentiel fioul	Interdiction des nouvelles chaudières au fioul	Isoler les logements et accompagner dans l'isolation	-
-Mieux se loger	Construction et rénovation des logements	Bâtiment	Résidentiel gaz	Suppression des aides MaPrimeRenov pour les nouvelles chaudières au gaz	Isoler les logements et accompagner dans l'isolation	-
-Mieux se loger	Construction et rénovation des logements	Bâtiment	Résidentiel gaz	Évolution du dispositif MaPrimeRenov (changement de chaudière)	Isoler les logements et accompagner dans l'isolation	-
+Mieux se loger	Construction et rénovation des logements	Bâtiment	Isolation résidentiel	Accompagnement renforcé tout au long du parcours de rénovation	Isoler les logements et accompagner les ménages	-
+Mieux se loger	Construction et rénovation des logements	Bâtiment	Isolation résidentiel	Évolution du dispositif MaPrimeRenov (rénovations performantes)	Isoler les logements et accompagner les ménages	-
+Mieux se loger	Construction et rénovation des logements	Bâtiment	Isolation résidentiel	Mesures pour saisir les moments clés propices à la rénovation	Isoler les logements et accompagner les ménages	-
+Mieux se loger	Construction et rénovation des logements	Bâtiment	Isolation résidentiel	Meilleurs contrôles et mesures de l'impact	Isoler les logements et accompagner les ménages	-
+Mieux se loger	Construction et rénovation des logements	Bâtiment	Résidentiel fioul	Interdiction des nouvelles chaudières au fioul	Décarboner l'énergie des logements et accompagner les ménages	-
+Mieux se loger	Construction et rénovation des logements	Bâtiment	Résidentiel gaz	Suppression des aides MaPrimeRenov pour les nouvelles chaudières au gaz	Décarboner l'énergie des logements et accompagner les ménages	-
+Mieux se loger	Construction et rénovation des logements	Bâtiment	Résidentiel gaz	Évolution du dispositif MaPrimeRenov (changement de chaudière)	Décarboner l'énergie des logements et accompagner les ménages	-
 Mieux se loger	Construction et rénovation des logements	Énergie	Résidentiel biogaz	Résidentiel biogaz	Développer la filière biogaz	-
 Mieux se loger	Construction et rénovation des logements	Bâtiment	Sobriété résidentiel	Sobriété résidentiel	Favoriser des efforts de sobriété thermique	-
 Mieux se loger	Aménagements des villes	-	-	-	-	-
@@ -61,11 +61,11 @@ Mieux produire	Transport de marchandises, logistique, e-commerce   Industrie	Tra
 Mieux produire	Transport de marchandises, logistique, e-commerce   Industrie	Transport	Conso (efficacité)	Renforcer l'efficacité énergétique des véhicules	Renforcer l'efficacité énergétique des véhicules, navires, aéronefs	-
 Mieux produire	Transport de marchandises, logistique, e-commerce   Énergie	Transport	EE des navires	Renforcer l'efficacité énergétique des navires	Renforcer l'efficacité énergétique des véhicules, navires, aéronefs	-
 Mieux produire	Transport de marchandises, logistique, e-commerce   Industrie	Transport	Bio/e-carburants (marchandises)	Utiliser des carburants durables	Produire et utiliser des carburants durables	-
-Mieux produire	Nucléaire/Production d'électricité décarbonnée hors nucléaire	Énergie	Nucléaire/ENR électriques	Produire suffisamment d'électricité décarbonée	-	-
-Mieux produire	Production d'énergie décarbonnée (hors électricité) Énergie	Énergie	Tertiaire biogaz	Mobiliser efficacement et de façon raisonnée les ressources en biomasse pour produire des bioénergies	-	-
-Mieux produire	-	Industrie ?		Sécuriser les objectifs d'économies d'énergie dans les différents secteurs	-	-
-Mieux produire	-	Énergie	Raffinage	-	-	-
-Mieux produire	-	Énergie	Sobriété tertiaire	Pérenniser les efforts de sobriété	-	-
+Mieux produire	Nucléaire/Production d'électricité décarbonnée hors nucléaire	Énergie	Nucléaire/ENR électriques	Produire suffisamment d'électricité décarbonée	-	Inclus dans plusieurs autres chantiers
+Mieux produire	Production d'énergie décarbonnée (hors électricité) Énergie	Énergie	Tertiaire biogaz	Mobiliser efficacement et de façon raisonnée les ressources en biomasse pour produire des bioénergies	Permettre de, produire et utiliser durablement des bioénergies	-
+Mieux produire	-	Industrie ?		Sécuriser les objectifs d'économies d'énergie dans les différents secteurs	-	Objectif mais n'est pas un levier en tant que tel
+Mieux produire	-	Énergie	Raffinage	-	-	A priori pas d'action désignée dans France Nation Verte, progrès technique ?
+Mieux produire	-	Énergie	Sobriété tertiaire	Pérenniser les efforts de sobriété	Favoriser la sobriété énergétique (?)	-
 Mieux produire	Production d'électricité décarbonnée hors nucléaire	Énergie	ENR électriques	Doubler le rythme annuel de développement de nouvelles capacités photovoltaïque	Permettre de, produire et utiliser de l'énergie solaire photovoltaïque	-
 Mieux produire	Production d'électricité décarbonnée hors nucléaire	Énergie	ENR électriques	Maintenir le rythme de développement de capacités - éolien terrestre	Permettre de, produire et utiliser de l'énergie éolienne terrestre	-
 Mieux produire	Production d'électricité décarbonnée hors nucléaire	Énergie	ENR électriques	Atteindre l'objectif de 18 GW mis en service en 2035 et développer fortement sur le long terme - éolien maritime	Permettre de, produire et utiliser de l'énergie éolienne maritime	-
@@ -73,10 +73,10 @@ Mieux produire	Nucléaire	Énergie	Nucléaire	Poursuivre le fonctionnement des r
 Mieux produire	Nucléaire	Énergie	Nucléaire	Poursuivre la mise en oeuvre du programme industriel de construction de 6 nouveaux réacteurs EPR2 et confirmer le lancement de 8 autres	Développer de nouvelles capacités nucléaires innovantes	-
 Mieux produire	Nucléaire	Énergie	Nucléaire	Encourager le déploiement des petits réacteurs modulaires et de petits réacteurs innovants	Développer de nouvelles capacités nucléaires innovantes	-
 Mieux produire	Production d'énergie décarbonnée (hors électricité)	Énergie	Réseaux de chaleur	Accélérer la production de chaleur d'origine renouvelable	Permettre de, produire et utiliser de chaleur d'origine renouvelable	-
-Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)	Bâtiment	Rénovation tertiaire	Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	-	-
-Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)	Bâtiment	Tertiaire chaudières fioul	Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	-	-
-Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)	Bâtiment	Tertiaire chaudière gaz	Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	-	-
-Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)	Énergie	Tertiaire biogaz	Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	-	-
+Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)	Bâtiment	Rénovation tertiaire	Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	Isoler les bâtiments tertiaires	-
+Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)	Bâtiment	Tertiaire chaudières fioul	Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	Décarboner l'énergie dans les bâtiments tertiaires	-
+Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)	Bâtiment	Tertiaire chaudière gaz	Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	Décarboner l'énergie dans les bâtiments tertiaires	-
+Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)	Énergie	Tertiaire biogaz	Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	Décarboner l'énergie dans les bâtiments tertiaires	-
 Mieux produire	Prévention, gestion et valorisation des déchets	Déchets	Sobriété (déchets)	Réduire la quantité et la nocitivité des déchets	Réduire la quantité et la nocivité des déchets	-
 Mieux produire	Prévention, gestion et valorisation des déchets	Déchets	Tri des déchets : valorisation matière 	Réduire le stockage de déchets	Réduire le stockage de déchets	-
 Mieux produire	Prévention, gestion et valorisation des déchets	Déchets	Captage de méthane dans les ISDND	Augmenter fortement le taux de captage du méthane dans les lieux de stockage	Améliorer le captage du méthane dans les lieux de stockage	-
