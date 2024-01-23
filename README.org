@@ -5,6 +5,7 @@ France Nation Verte a vocation à couvrir les enjeux environnementaux principaux
 
 Limites :
 - les actions et chantiers vont continuer à évoluer et à se préciser (notamment pour la famille Mieux consommer, et pour les volets adaptation, santé et ressources)
+- en alignant des chantiers sans préciser leur potentiel de contribution à un tout limite la capacité à faire sortir le plus saillant (les métiers les plus à risques ou les métiers les plus stratégiques) mais on ne dispose pas d'une métrique unique permettant de le faire (carbone non suffisant)
 - la classification en 52 leviers de décarbonation ne peut convenir :
   - ce sont des leviers de décarbonation, sujets de ressources ou de nature sont peu présents
   - ils sont peu opérationnalisés pour parler de l'emploi : si "Résidentiel fioul" est parlant pour voir comment on abat 9 Mt d'émissions entre 2019 et 2030, il n'y a pas une évolution positive (à mettre en avant) des compétences / des gestes métiers, de nouveaux métiers ou de la demande de travail sur le marché du travail (cf revue de littérature).
@@ -32,5 +33,3 @@ Rentrer dans les chantiers / actions / leviers en précisant progressivement, et
 - Pour faire des recommandations de taggage au niveau national, il y a un enjeu à expliciter les choix faits pour certaines données très localisées (typiquement la décarbonation des 50 sites industriels). Première intuition : les "50 sites" le sont pour des raisons de taille, mais certainement avant tout de process industriels. Peu de raisons que pour les mêmes process industriels, on ait moins d'émissions dans d'autres sites, qui sont peut-être juste moins importants en taille. Quand bien même ils ne seraient pas directement dans les 50 sites en question, le fait qu'un métier contribue à l'évolution des process industriels en question devrait pouvoir suffire pour le qualifier de métier stratégique pour la transition écologique.
 
   TODO Est-ce que les 50 sites industriels rentrent tous dans les leviers de décarbonation de l'ensemble de l'industrie (DGE) https://www.entreprises.gouv.fr/fr/publication-contrats-transition-ecologique-50-sites-industriels . Si oui => On peut faire rentrer le levier 50 sites en détaillant les leviers de la transition écologique dans les feuilles de route de décarbonation strictement.
-
-- L'intégration de l'économie circulaire est à désirer.
