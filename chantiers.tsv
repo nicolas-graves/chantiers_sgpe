@@ -66,20 +66,20 @@ Mieux produire	Production d'énergie décarbonnée (hors électricité) Énergie
 Mieux produire	-	Industrie ?		Sécuriser les objectifs d'économies d'énergie dans les différents secteurs	-	-
 Mieux produire	-	Énergie	Raffinage	-	-	-
 Mieux produire	-	Énergie	Sobriété tertiaire	Pérenniser les efforts de sobriété	-	-
-Mieux produire	Production d'électricité décarbonnée hors nucléaire	Énergie	ENR électriques	Doubler le rythme annuel de développement de nouvelles capacités photovoltaïque	-	-
-Mieux produire	Production d'électricité décarbonnée hors nucléaire	Énergie	ENR électriques	Maintenir le rythme de développement de capacités - éolien terrestre	-	-
-Mieux produire	Production d'électricité décarbonnée hors nucléaire	Énergie	ENR électriques	Atteindre l'objectif de 18 GW mis en service en 2035 et développer fortement sur le long terme - éolien maritime	-	-
-Mieux produire	Nucléaire	Énergie	Nucléaire	Poursuivre le fonctionnement des réacteurs existants et renforcer leur disponibilité	-	-
-Mieux produire	Nucléaire	Énergie	Nucléaire	Poursuivre la mise en oeuvre du programme industriel de construction de 6 nouveaux réacteurs EPR2 et confirmer le lancement de 8 autres	-	-
-Mieux produire	Nucléaire	Énergie	Nucléaire	Encourager le déploiement des petits réacteurs modulaires et de petits réacteurs innovants	-	-
-Mieux produire	Production d'énergie décarbonnée (hors électricité)	Énergie	Réseaux de chaleur	Accélérer la production de chaleur d'origine renouvelable	-	-
+Mieux produire	Production d'électricité décarbonnée hors nucléaire	Énergie	ENR électriques	Doubler le rythme annuel de développement de nouvelles capacités photovoltaïque	Permettre de, produire et utiliser de l'énergie solaire photovoltaïque	-
+Mieux produire	Production d'électricité décarbonnée hors nucléaire	Énergie	ENR électriques	Maintenir le rythme de développement de capacités - éolien terrestre	Permettre de, produire et utiliser de l'énergie éolienne terrestre	-
+Mieux produire	Production d'électricité décarbonnée hors nucléaire	Énergie	ENR électriques	Atteindre l'objectif de 18 GW mis en service en 2035 et développer fortement sur le long terme - éolien maritime	Permettre de, produire et utiliser de l'énergie éolienne maritime	-
+Mieux produire	Nucléaire	Énergie	Nucléaire	Poursuivre le fonctionnement des réacteurs existants et renforcer leur disponibilité	Entretenir et renforcer les capacités nucléaires existantes	-
+Mieux produire	Nucléaire	Énergie	Nucléaire	Poursuivre la mise en oeuvre du programme industriel de construction de 6 nouveaux réacteurs EPR2 et confirmer le lancement de 8 autres	Développer de nouvelles capacités nucléaires innovantes	-
+Mieux produire	Nucléaire	Énergie	Nucléaire	Encourager le déploiement des petits réacteurs modulaires et de petits réacteurs innovants	Développer de nouvelles capacités nucléaires innovantes	-
+Mieux produire	Production d'énergie décarbonnée (hors électricité)	Énergie	Réseaux de chaleur	Accélérer la production de chaleur d'origine renouvelable	Permettre de, produire et utiliser de chaleur d'origine renouvelable	-
 Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)	Bâtiment	Rénovation tertiaire	Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	-	-
 Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)	Bâtiment	Tertiaire chaudières fioul	Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	-	-
 Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)	Bâtiment	Tertiaire chaudière gaz	Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	-	-
 Mieux produire	Tertiaire (incluant les bâtiments publics de l'Etat et des collectivités, hors logement)	Énergie	Tertiaire biogaz	Accélérer la rénovation des bâtiments tertiaires et assurer leur performance énergétique	-	-
 Mieux produire	Prévention, gestion et valorisation des déchets	Déchets	Sobriété (déchets)	Réduire la quantité et la nocitivité des déchets	Réduire la quantité et la nocivité des déchets	-
 Mieux produire	Prévention, gestion et valorisation des déchets	Déchets	Tri des déchets : valorisation matière 	Réduire le stockage de déchets	Réduire le stockage de déchets	-
-Mieux produire	Prévention, gestion et valorisation des déchets	Déchets	Captage de méthane dans les ISDND	Augmenter fortement le taux de captage du méthane dans les lieux de stockage	-	-
+Mieux produire	Prévention, gestion et valorisation des déchets	Déchets	Captage de méthane dans les ISDND	Augmenter fortement le taux de captage du méthane dans les lieux de stockage	Améliorer le captage du méthane dans les lieux de stockage	-
 Mieux produire	Prévention, gestion et valorisation des déchets	Déchets	Tri des déchets : valorisation matière	Soutenir la production d'énergie via les combustibles solides de récupération	-	-
 Mieux produire	Prévention, gestion et valorisation des déchets	Déchets (économie circulaire)	-	Développement du recyclage	-	-
 Mieux produire	Prévention, gestion et valorisation des déchets	Déchets (économie circulaire)	-	Développement de la collecte et du tri	-	-
@@ -92,7 +92,7 @@ Mieux produire	Prévention, gestion et valorisation des déchets	-	-	Diminuer la
 Mieux produire	Prévention, gestion et valorisation des déchets	-	-	Améliorer le taux de collecte et de réincorporation des matières premières	-	-
 Mieux produire	Prévention, gestion et valorisation des déchets	-	-	Soutenir les projets sous contrôle FR et EU sur toute la chaîne de valeur (extraction, raffinage, recyclage) des matières premières	-	-
 Mieux produire	-	-	-	Engager une diplomatie des métaux	-	-
-Mieux produire	Verdissement du secteur et des instruments financiers	-	-	-	-	-
+Mieux produire	Verdissement du secteur et des instruments financiers	-	-	-	Financer la transition écologique	-
 Mieux se nourrir	Agriculture et pêche	Agriculture	Légumineuses	Accélérer le développement de la culture de légumineuses	-	-
 Mieux se nourrir	Agriculture et pêche	Agriculture	Autres leviers azote	Changer les pratiques de fertilisation azotée	-	-
 Mieux se nourrir	Agriculture et pêche	Agriculture	Élevage	Baisser les émissions du secteur de l'élevage par la transition vers un élevage plus durable	-	-
@@ -113,7 +113,7 @@ Mieux consommer	Achats durables (de l'Etat, des collectivités et des entreprise
 Transverse	Financement qui permet de définir des trajectoires d'investissement crédibles et cohérentes	-	-	Financer la transition écologique	Financer la transition écologique	-
 Transverse	Planification et différenciation territoriale selon les caractéristiques et les spécificités de chaque territoire, incluant les territoires ultra-marins	-	-	-	-	-
 Transverse	Transition des filières avec la gestion des emplois, des formations et des compétences	-	-	-	-	-
-Transverse	Les données environnementales	-	-	-	-	-
+Transverse	Les données environnementales	Transverse	-	Mettre le numérique au service de l'action	-	-
 Transverse	Services publics exemplaires	-	-	-	-	-
 Transverse	Transition juste et chemins d'accompagnement	-	-	-	-	-
 Transverse	Sobriété des usages et des ressources	-	-	-	-	-
