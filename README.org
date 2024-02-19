@@ -19,7 +19,9 @@ Le suivi des métiers stratégiques pour la planification écologique par le SGP
 
 2) En croisant la liste des PCS retenue et les secteurs d'activité (NAF) correspondant à la Construction et aux activités d'ingénierie et d'architecture, on ne retient que les personnes qui exercent les métiers définis en étape (1) dans les entreprises de la filière.
 
-Ce croisement ne permet pour le moment de ne donner qu'une estimation (voir note à la fin sur la DSN) du vivier.
+Ce croisement ne permet pour le moment de ne donner qu'une estimation du vivier. L'étape (2) et son amélioration (en termes de fiabilité, voir note à la fin sur la DSN) relèvent du travail du SGPE / DARES / INSEE / France Stratégie.
+
+Ce travail se veut être un appui pour améliorer et définir des catégories pour un suivi statistique dans le temps de métiers stratégiques pour la planification écologique (étape 1), s'appuyant sur les travaux existants des différents EDEC, études de branches, diagnostics d'AMI-CMA.
 
 ** Maille des chantiers
 
