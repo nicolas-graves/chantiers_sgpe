@@ -12,6 +12,15 @@ Limites :
 
 * Méthodologie
 
+** Cadre
+Le suivi des métiers stratégiques pour la planification écologique par le SGPE se place dans un cadre avec la méthode de référence utilisée dans [cite:@diagne2023_reb_2030] :
+
+1) À partir d'une revue bibliographique (EDEC de la branche Constructys notamment) et des entretiens auprès des acteurs de la filière (Opco, fédérations professionnelles, OS, entreprises, RCO, OF, etc.), construit une liste de métiers "de la rénovation énergétique des bâtiments". Celle-ci a été déclinée dans les nomenclatures ROME, FAP, PCS.
+
+2) En croisant la liste des PCS retenue et les secteurs d'activité (NAF) correspondant à la Construction et aux activités d'ingénierie et d'architecture, on ne retient que les personnes qui exercent les métiers définis en étape (1) dans les entreprises de la filière.
+
+Ce croisement ne permet pour le moment de ne donner qu'une estimation (voir note à la fin sur la DSN) du vivier.
+
 ** Maille des chantiers
 
 Dans les travaux sur la base O•NET, les impacts attendus de la transition écologique sur les emplois sont de trois natures [cite:@dierdorff2009_greening_work]:
@@ -31,7 +40,7 @@ Rentrer dans les chantiers / actions / leviers en précisant progressivement, et
 4) Harmonisation : utilisation des mêmes verbes d'actions et de périmètre pour les différents chantiers (non terminé).
 5) Partage / retours / raffinements (le versionnage permet la transparence sur ce qui change).
 
-** Problèmes restants à lever
+** Problèmes restants à lever, prochaines étapes
 
 - Reprendre le versionnage pour expliciter les étapes de la méthodo de manière plus transparente.
 
@@ -41,3 +50,7 @@ Rentrer dans les chantiers / actions / leviers en précisant progressivement, et
 
 - Les chantiers transversaux ne sont pas directs, se retrouvent dans plusieurs leviers. Besoin d'un peu plus de travail pour s'assurer d'une prise en compte pertinente.
 
+- Aujourd'hui, la DSN serait la meilleure source pour quantifier le vivier réel (données actualisées disponibles en « temps réel ») de travailleurs mais :
+  - Son exploitation est encore complexe (l'exploitation statistique n'était pas une finalité d'usage à sa création)
+  - Elle n'est bien renseignée que pour les salariés (pour l'instant), or un volume assez important de travailleurs du bâtiment est à son compte et échappe donc à cette DSN.
+  - Il n'y a pas encore de table de passage entre la PCS-ESE dans la DSN et la PCS2020, donc impossible de recouper notre liste avec les métiers renseignés dans la DSN, sauf à le faire à la main...
