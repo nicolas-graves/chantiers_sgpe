@@ -25,7 +25,7 @@ La maille des chantier qui semble la plus pertinente est celle qui permet /a min
 
 Rentrer dans les chantiers / actions / leviers en précisant progressivement, et s'arrêter, pour chaque chantier, à  la maille décrite juste au-dessus.
 
-1) Pour partir d'une base qui n'est pas uniquement centrée sur les leviers de décarbonation, partir des 22 leviers opérationnels et des 7 leviers transversaux de France Nation Verte  [cite:@pm2023_france_nation_verte]
+1) Pour partir d'une base qui n'est pas uniquement centrée sur les leviers de décarbonation, partir des 22 leviers opérationnels et des 7 leviers transversaux de France Nation Verte  [cite:@pm2022_france_nation_verte]
 2) Ajouter toutes les actions détaillées dans le plan France Nation Verte [cite:@sgpe2023_france_nation_verte]
 3) Ajouter des chantiers "directs", en partant assez directement des actions détaillées pour synthétiser un chantier.
 4) Harmonisation : utilisation des mêmes verbes d'actions et de périmètre pour les différents chantiers (non terminé).
